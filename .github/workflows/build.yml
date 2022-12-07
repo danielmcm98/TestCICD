@@ -25,5 +25,5 @@ on:
               with:
                 java-version: '15'
                 distribution: 'adopt'
-            
+
           run: mvn -B clean test
